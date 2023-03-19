@@ -1,5 +1,5 @@
 # Calculator
-This application is an calculator building with Vue.Js(Vite)
+This application is an calculator building with Vue.Js
 
 ## Project setup
 ```
